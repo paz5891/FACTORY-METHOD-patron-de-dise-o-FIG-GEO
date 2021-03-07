@@ -2,14 +2,15 @@
 Educational source code to explain creational pattern design: Factory Method
 
 #PRUEBA # 1
-Solicitando transporte terrestre
-Beginning Road Route   🚚🚚🚚🚚🚚🚚🚚🚚🚚
+Solicitando creacion rectangulo
+Beginning  ▆ ▆ ▆ ▆ ▆ ▆ ▆ 
 
 #PRUEBA # 2 
-Solicitando transporte maritimo
-Beginning Sea Route    🚢🚢🚢🚢🚢🚢🚢🚢🚢
+Solicitando creacion cuadrado
+Beginning ■ ■ ■ ■ ■ ■ ■ ■ ■
 
 #PRUEBA # 3
-Solicitando transporte Aereo
-Beginning Sea Route     ✈️ ✈️ ✈️ ✈️ ✈️ ✈️ 
-Buen viaje!!!!!!
+Solicitando creacion triangulo
+Beginning Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ 
+
+Amazing!!!!!!
